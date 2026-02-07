@@ -1,0 +1,6 @@
+discord.py[voice]
+PyNaCl
+gTTS
+requests
+openai-whisper
+ffmpeg-python
